@@ -1,0 +1,26 @@
+
+
+.form{
+    background: green;
+margin-top: 10rem;
+margin-bottom: 10rem;
+margin-right: 40rem;
+margin-left: 40rem;
+color: #fff;
+padding: 90px 80px;
+font-size: large;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.inpu{
+    background: yellow;
+    border: none;
+    margin: 5px 5px;
+    padding: 3px 3px;
+    border-radius: 2px;
+}
+.btn{
+    background: yellow;
+    margin-top: 5px ;
+    padding: 20px 9rem;
+}
