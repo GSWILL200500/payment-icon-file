@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">  
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>PAYMENT</title>
+</head>
+<body>
+
+    <div id="container">
+    <H1 class="h2">PAYMENT</H1>
+    <h2 class="h2">accepted card</h2>
+    <p class="P">OUR CARDS</p>
+    <label class="icon-container" for="fname">
+        <i class="fa fa-cc-visa fa-4x" style="color: rgb(185, 255, 127);"></i>
+        <i class="fa fa-cc-paypal fa-4x" style="color: rgb(255, 200, 127)";></i>
+        <i class="fa fa-cc-discover fa-4x" style="color: rgb(30, 14, 252);"></i>
+        <i class="fa fa-cc-amex fa-4x" style="color: rgb(5, 253, 170);"></i>
+        <i class="fa fa-cc-visa fa-4x" style="color: aquamarine;"></i>
+
+
+    </label>
+    </div>
+</body>
+</html>
+
+
+
+
+<!SO WE ARE GOING TO MAKE THIS NOW
+SO TO START WE NEED TO FIRST HIT"!" THEN HIT ENTER
+SO WE HAVE OUR BOILER PLATE
+SO WE ARE GOING TO DO THE SAME THING 
+you can give it any color actualy i don't remenber the initial ones i gave
+NORMALLY I HAD TO PUT THIS CODE  
+SO WE ARE GOING TO STYLE STYLE CSS
+
+THANKS FOR WACTHING PLS SUBSCRIBE
+>
+
+
+/* CSS FILE*/
+
+
+/*body decoration*/
+body{
+    opacity: 0.9;
+    background: url(/img/back.jpg) no-repeat center center/cover;
+}
+/*H2 LABEL DECORATION*/
+
+.h2{
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;
+    text-transform: uppercase;
+}
+
+.la{
+    font-family: fantasy;
+    font-size: 30px;
+}
+/*CONTAINER DECORATION */
+#container{
+    text-align: center;
+    margin-top: 55rem;
+    border: 50rem;
+    background: rgb(9, 114, 235);
+    border-radius: 10%;
+    margin-left: 50rem;
+    margin-right: 50rem;
+    z-index: 1;
+    padding: 35px;
+    margin-bottom: 16rem;
+}
+
+#container .icon-container{
+    margin-top: 10px;
+}
+
+#container .icon-container i{  
+    width: 90px;
+}
+
+.P{
+    font-size: 40px;
+    font-family: fantasy;
+  
+}
